@@ -4,7 +4,7 @@
 
 I am a technical professional with experience in designing, building, and securing enterprise-grade systems for global organizations. I specialize in infrastructure automation, secrets management, and bridging the gap between developer velocity and strict corporate governance.
 
-### 🔒 Why is my contribution graph so quiet?
+### 🔒 Why is my contribution graph sparse?
 For nearly two decades, my work has been dedicated to highly restricted, self-hosted, and air-gapped enterprise environments. While my public GitHub "green squares" might look less chatty, my daily focus has been on architecting complex infrastructure and driving technical adoption across large engineering organizations. 
 
 ### 🚀 Enterprise Highlights & Architecture
