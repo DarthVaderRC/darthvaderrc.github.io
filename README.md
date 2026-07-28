@@ -16,7 +16,7 @@ For nearly two decades, my work has been dedicated to highly restricted, self-ho
 * **Developer Tooling:** Building frameworks and workflows that reduce friction for developers, PMs, QA, and DevOps teams while maintaining enterprise compliance.
 
 ### 🎤 Community & Speaking
-* **Industry Speaker:** Present technical sessions, conduct workshops on Identity|Access|credential management.
+* **Industry Speaker:** Present technical sessions, conduct workshops on Identity, Access, credential management.
   
 ### 🛠️ The Toolbox
 * **Architecture & Cloud:** AWS, Multi-cloud environments, Azure DevOps
