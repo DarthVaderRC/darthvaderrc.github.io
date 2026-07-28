@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Dinesh Gawande - Senior Solutions Architect
+layout: home
+title: Home
 ---
 
 # Hi there, I'm Dinesh 👋
