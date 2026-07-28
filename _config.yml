@@ -11,8 +11,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://darthvaderrc.github.io" # the base hostname & protocol for your site
 
 # GitHub Pages uses Jekyll 3.9.x
-# Theme - using the Hacker theme
-remote_theme: pages-themes/hacker@v0.2.0
+# Theme - using the Cayman theme
+remote_theme: pages-themes/cayman@v0.2.0
 
 # Social links (optional - update with your actual profiles)
 github_username: darthvaderrc
