@@ -12,7 +12,7 @@ url: "https://darthvaderrc.github.io" # the base hostname & protocol for your si
 
 # GitHub Pages uses Jekyll 3.9.x
 # Theme - using a GitHub Pages supported theme
-theme: minima
+theme: hacker
 
 # Social links (optional - update with your actual profiles)
 github_username: darthvaderrc
