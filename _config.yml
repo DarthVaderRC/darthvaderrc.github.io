@@ -1,0 +1,53 @@
+# Jekyll Configuration for GitHub Pages
+
+# Site settings
+title: Dinesh Gawande
+email: 
+description: >-
+  Senior Solutions Architect | Enterprise Security, Infrastructure and DevOps.
+  Specializing in secrets management, infrastructure automation, and enterprise architecture.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://darthvaderrc.github.io" # the base hostname & protocol for your site
+
+# GitHub Pages uses Jekyll 3.9.x
+# Theme - using a GitHub Pages supported theme
+theme: minima
+
+# Social links (optional - update with your actual profiles)
+github_username: darthvaderrc
+linkedin_username: # add your LinkedIn username if desired
+twitter_username: # add your Twitter username if desired
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .git/
+  - .gitignore
+
+# Collections (optional - for organizing content)
+# collections:
+#   projects:
+#     output: true
+#     permalink: /projects/:path/
+
+# Defaults (optional - for front matter defaults)
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Dinesh Gawande"
